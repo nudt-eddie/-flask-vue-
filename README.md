@@ -63,19 +63,4 @@ python app.py
  * Debugger PIN: 330-024-692
 ```
 
-- 启动爬虫  
-
-#### 登录页面
-
-<img src= "./img/login.png">
-
-------
-
-#### 主页面
-
-<img src= "./img/home.png">
-
-
-Todo List:
-- [ ] id搜索
 
